@@ -18,7 +18,7 @@ To get started with Quizzify, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/quizzify.git
+   git clone https://github.com/Swathihanumanthappa123/Gemini_Quizzify.git
    ```
 
 2. Install the required dependencies:
@@ -28,7 +28,7 @@ To get started with Quizzify, follow these steps:
 
 3. Run the application:
    ```
-   streamlit run app.py
+   streamlit run tasks_10.py
    ```
 
 4. Follow the on-screen instructions to load documents, select a topic, and generate a quiz.
